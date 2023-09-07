@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Tunay</h1>
 <h3 align="center">iOS Developer - Computer Engineer</h3>
 
-- 🔭 I am currently working ** iOS developer.**
+- 🔭 I am currently working **iOS developer.**
 
 - 🌱 I’m currently learning **Swift**
 
